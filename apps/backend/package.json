@@ -10,7 +10,7 @@
   "dependencies": {
     "@elysiajs/cors": "^1.4.1",
     "@elysiajs/swagger": "1.0.3",
-    "@prisma/adapter-libsql": "^7.4.2",
+    "@prisma/adapter-libsql": "^7.5.0",
     "@prisma/client": "^7.4.2",
     "@scalar/types": "^0.7.3",
     "dotenv": "^17.3.1",
